@@ -2,7 +2,7 @@
 A online voting platform for performing elections
 
 
-constraint applied
+constraint applied in creating database table in SQL
 
 Alter table user_details add constraint ud_an_pk primary key(adhar_no);
 
